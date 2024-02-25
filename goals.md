@@ -9,5 +9,5 @@
 ### Задачи, над которыми я буду работать
 - Выполню лабораторные работы по дисциплине "Операциооные системы"
 - Посмотрю видеоуроки по Git и сайту GitHub
-- Буду программировать в Visual Studio на языке C++
-- Буду программирвоать в PyCharm на языке python
+- Буду программировать в [Visual Studio](https://visualstudio.microsoft.com/ru/) на языке C++
+- Буду программирвоать в [PyCharm](https://www.jetbrains.com/ru-ru/pycharm/) на языке Python
